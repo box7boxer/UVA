@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1376468481 source:c:\documents and settings\a\орн▒\245 - uncompress\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
